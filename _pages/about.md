@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Academic updates"
+title: " Ayesha S. Dina's Academic updates"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
