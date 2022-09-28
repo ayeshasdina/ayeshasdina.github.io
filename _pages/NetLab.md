@@ -2,9 +2,6 @@
 layout: archive
 title: "NetLab"
 permalink: /NetLab/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
