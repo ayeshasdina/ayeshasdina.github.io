@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "NetLab"
-permalink: /cv/
+permalink: /NetLab/
 author_profile: true
 redirect_from:
   - /resume
