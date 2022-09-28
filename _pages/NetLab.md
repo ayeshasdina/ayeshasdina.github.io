@@ -1,6 +1,5 @@
 ---
 title: "NetLab"
-permalink: /NetLab/
 ---
 
 {% include base_path %}
