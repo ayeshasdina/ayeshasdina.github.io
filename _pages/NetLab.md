@@ -1,5 +1,5 @@
 ---
-title: "NetLab"
+title: "Lab"
 permalink: /NetLab/
 ---
 
