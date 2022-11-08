@@ -1,9 +1,9 @@
 ---
 title: "Lab"
-permalink: /NetLab/
+permalink: /Lab/
 ---
 
 <!-- {% include base_path %} -->
 
 
-The link of [NetLab](http://www.cs.uky.edu/~manivann/)
+The link of [Lab](http://www.cs.uky.edu/~manivann/)
