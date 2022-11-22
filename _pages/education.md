@@ -17,4 +17,4 @@ Adviser: [D. Manivannan](http://www.cs.uky.edu/~manivann/).
 
 ### B.Sc. in Computer Science and Engineering
 2008 - 2014. <br>
-University of Chittagong, Bangladesh<br>
+University of Chittagong, Bangladesh.<br>
