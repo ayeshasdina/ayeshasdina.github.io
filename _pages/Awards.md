@@ -1,6 +1,6 @@
 ---
-title: "Services"
-permalink: /Service/
+title: "Awards and Services"
+permalink: /Award&Service/
 ---
 
 <!-- {% include base_path %} -->
