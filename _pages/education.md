@@ -1,6 +1,6 @@
 <!-- ---
-title: "Lab"
-permalink: /Lab/
+title: "Education"
+permalink: /Education/
 ---
 
 <!-- {% include base_path %} -->
