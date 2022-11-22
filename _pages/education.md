@@ -6,6 +6,6 @@ permalink: /Education/
 <!-- {% include base_path %} -->
 
 ### Ph.D. in Computer Science
-2017 - present
-University of kentucky
+2017 - present \\
+University of kentucky \\
 Adviser: [D. Manivannan](http://www.cs.uky.edu/~manivann/)
