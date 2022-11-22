@@ -1,4 +1,4 @@
-<!-- ---
+-- ---
 title: "Education"
 permalink: /Education/
 ---
