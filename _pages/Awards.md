@@ -5,7 +5,7 @@ permalink: /Award&Service/
 
 <!-- {% include base_path %} -->
 
-###Awards
+### Awards
 
 ### Services
  * Treasurer, Graduate Student Association of Computer Science (GSACS)
