@@ -1,6 +1,6 @@
 
 ---
-title: "Lab"
+title: "Education"
 permalink: /Education/
 ---
 
