@@ -9,7 +9,7 @@ permalink: /Education/
 2017 - present. <br>
 University of Kentucky. <br>
 Adviser: [D. Manivannan](http://www.cs.uky.edu/~manivann/).<br>
-Co-Adviser:[A. B. Siddique](http://cs.uky.edu/~siddique/)
+Co-Adviser: [A. B. Siddique](http://cs.uky.edu/~siddique/)
 
 ### M.Sc. in Computer Science
 2017 - 2022. <br>
