@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ayesha S. Dina, a Ph.D. candidate at the University of Kentucky majoring in computer science. Initially, I worked as a research assistant in a bioinformatics lab analyzing plant genes. In order to pursue my Ph.D., I joined Distributed and Mobile Computing Systems Research Group that focuses on computer networks security. As part of my research, I am interested in security issues related to Computer Networks, Vehicular Ad-hoc Networks (VANETs), and the Internet of Things (IoT). I am originally from Bangladesh, a tea lover and enjoy road trips with my daughter. In addition to my field of study, I am interested in exploring other research areas as well.
+I am Ayesha S. Dina, a Ph.D. candidate at the University of Kentucky majoring in computer science. Initially, I worked as a research assistant in a bioinformatics lab analyzing plant genes. In order to pursue my Ph.D., I joined Distributed and Mobile Computing Systems Research Group that focuses on computer networks security. As part of my research, I am interested in security issues related to Computer Networks, Vehicular Ad-hoc Networks (VANETs), and the Internet of Things (IoT). I am originally from Bangladesh, a tea lover, a loyal customer of starbucks and enjoy road trips with my daughter. In addition to my field of study, I am interested in exploring other research areas as well.
 
 News
 ======
