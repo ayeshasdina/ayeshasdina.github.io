@@ -12,10 +12,10 @@ I am Ayesha S. Dina, a Ph.D. candidate at the University of Kentucky majoring in
 
 News
 ======
+1. Our article accepted in International Wireless Communications & Mobile Computing Conference (IWCMC 2023) on March, 2023, "Conditional Privacy-preserving Authentication and Message Dissemination Scheme using Timestamp based Pseudonyms for VANETs".
+2. Our poster based on "A deep learning approach for intrusion detection in Internet of Things using focal loss function", is the winner of the poster contest at WiCyS2023.
+3. Our article accepted in Internet of Things Journal on january, 2023, "A deep learning approach for intrusion detection in Internet of Things using focal loss function".
+4. Our article accepted in IEEE Access on september, 2022, "Effect of Balancing Data Using Synthetic Data on the Performance of Machine Learning Classifiers for Intrusion Detection in Computer Networks". 
+5. Attended Grace Hopper Celebration 2022.
 
-1. Our article accepted in Internet of Things Journal on january, 2023, "A deep learning approach for intrusion detection in Internet of Things using focal loss function".
-2. Our article accepted in IEEE Access on september, 2022, "Effect of Balancing Data Using Synthetic Data on the Performance of Machine Learning Classifiers for Intrusion Detection in Computer Networks". 
-3. Attended Grace Hopper Celebration 2022.
-4. I am elected as Tresurer for Gradute Student Association of Computer Science (GSCAS) 2022-2023.
-5. Presented our work on plant gene analysis title “Ranking Plant Genotypes using Photosynthetic Phenotype Data Collected under Dynamic Environmental Conditions” at Conference on Bioinformatics (InCoB) 2021, Kunming,China.
 
