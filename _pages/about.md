@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am Ayesha S. Dina, an Assistant professor at the Department of Computer Science in Florida Polytechnic University.
-I completed my Ph.D. and M.Sc in Computer Science at the University of Kentucky in 2023. Initially, I worked as a research assistant in a bioinformatics lab analyzing plant genes. In order to pursue my Ph.D., I joined Distributed and Mobile Computing Systems Research Group that focuses on computer networks security. My research interests include Computer Networks Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics
-I am originally from Bangladesh, a tea lover, a loyal customer of starbucks and enjoy road trips with my daughter. In addition to my field of study, I am interested in exploring other research areas as well.
+I completed my Ph.D. and M.Sc degrees in Computer Science at the University of Kentucky. Initially, I worked as a research assistant in a bioinformatics lab analyzing plant genes. In order to pursue my Ph.D., I joined Distributed and Mobile Computing Systems Research Group that focuses on computer networks security. My research interests encompass a diverse array of subjects, notably Computer Network Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics.
+Beyond my academic pursuits, my origins trace back to Bangladesh. I find solace in savoring tea, and I'm known to be a dedicated patron of Starbucks. On a personal note, I derive immense joy from embarking on road trips alongside my daughter. In addition to my field of study, I am interested in exploring other research areas as well.
 
 News
 ======
