@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ayesha Siddiqua Dina"
 title_separator          : "-"
 name                     : &name "Ayesha S. Dina"
-description              : &description " Ph.D. Candidate at University of Kentucky"
+description              : &description "Assistant Professor at Florida Polytechnic University"
 url                      : https://ayeshasdina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayeshasdina/ayeshasdina.github.io"
@@ -86,7 +86,7 @@ author:
   #location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=FoAG77MAAAAJ"
   email            : "ayeshasdina@uky.edu"
   researchgate     : "https://www.researchgate.net/profile/Ayesha-Dina-2"
   uri              :
