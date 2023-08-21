@@ -14,7 +14,7 @@ Beyond my academic pursuits, my origins trace back to Bangladesh. I find solace 
 
 News
 ======
-1. Succesfully defended my dissertation. My dissertation titled "Deep Learning-Based Intrusion Detection Methods for Computer Networks and Privacy-Preserving Authentication Method for Vehicular Ad Hoc Networks"
+1. Successfully defended my dissertation. My dissertation titled "Deep Learning-Based Intrusion Detection Methods for Computer Networks and Privacy-Preserving Authentication Method for Vehicular Ad Hoc Networks"
 2. Our article accepted in International Wireless Communications & Mobile Computing Conference (IWCMC 2023) on March, 2023, "Conditional Privacy-preserving Authentication and Message Dissemination Scheme using Timestamp based Pseudonyms for VANETs".
 3. Our poster based on "A deep learning approach for intrusion detection in Internet of Things using focal loss function", is the winner of the poster contest at WiCyS2023.
 4. Our article accepted in Internet of Things Journal on january, 2023, "A deep learning approach for intrusion detection in Internet of Things using focal loss function".
