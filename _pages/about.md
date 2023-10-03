@@ -14,11 +14,12 @@ Beyond my academic pursuits, my origins trace back to Bangladesh. On a personal 
 
 News
 ======
-1. Successfully defended my dissertation. My dissertation titled "Deep Learning-Based Intrusion Detection Methods for Computer Networks and Privacy-Preserving Authentication Method for Vehicular Ad Hoc Networks"
-2. Our article accepted in International Wireless Communications & Mobile Computing Conference (IWCMC 2023) on March, 2023, "Conditional Privacy-preserving Authentication and Message Dissemination Scheme using Timestamp based Pseudonyms for VANETs".
-3. Our poster based on "A deep learning approach for intrusion detection in Internet of Things using focal loss function", is the winner of the poster contest at WiCyS2023.
-4. Our article accepted in Internet of Things Journal on january, 2023, "A deep learning approach for intrusion detection in Internet of Things using focal loss function".
-5. Our article accepted in IEEE Access on september, 2022, "Effect of Balancing Data Using Synthetic Data on the Performance of Machine Learning Classifiers for Intrusion Detection in Computer Networks". 
-6. Attended Grace Hopper Celebration 2022.
+- Our article accepted in 39th Applied Computer Security Applications Conference (ACSAC2023) on October, 2023, "FS3: Few-Shot and Self-Supervised Framework for Efficient Intrusion Detection in Internet of Things Networks".
+- Successfully defended my dissertation. My dissertation titled "Deep Learning-Based Intrusion Detection Methods for Computer Networks and Privacy-Preserving Authentication Method for Vehicular Ad Hoc Networks"
+- Our article accepted in International Wireless Communications & Mobile Computing Conference (IWCMC 2023) on March, 2023, "Conditional Privacy-preserving Authentication and Message Dissemination Scheme using Timestamp based Pseudonyms for VANETs".
+- Our poster based on "A deep learning approach for intrusion detection in Internet of Things using focal loss function", is the winner of the poster contest at WiCyS2023.
+- Our article accepted in Internet of Things Journal on January, 2023, "A deep learning approach for intrusion detection in Internet of Things using focal loss function".
+- Our article accepted in IEEE Access on september, 2022, "Effect of Balancing Data Using Synthetic Data on the Performance of Machine Learning Classifiers for Intrusion Detection in Computer Networks". 
+- Attended Grace Hopper Celebration 2022.
 
 
