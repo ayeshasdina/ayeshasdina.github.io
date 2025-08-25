@@ -6,4 +6,4 @@ permalink: /Lab/
 <!-- {% include base_path %} -->
 
 
-The link of [Lab](http://www.cs.uky.edu/~manivann/)
+Here is a [link] (https://ayeshasdina.github.io/researchlab/) to my  [Research Lab](https://ayeshasdina.github.io/researchlab/)
