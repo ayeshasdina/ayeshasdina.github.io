@@ -1,7 +1,4 @@
----
-title: "Lab"
-permalink: /[Research Lab](https://ayeshasdina.github.io/researchlab/)/
----
+
 
 <!-- {% include base_path %} -->
 
