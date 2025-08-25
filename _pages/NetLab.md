@@ -1,4 +1,7 @@
-
+---
+title: "" 
+permalink: /Lab/
+---
 
 <!-- {% include base_path %} -->
 
